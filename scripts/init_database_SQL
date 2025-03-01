@@ -1,0 +1,14 @@
+
+-- Drop and recreate the 'DataWarehouse' database
+USE master;
+GO
+
+CREATE DATABASE DataWarehouse;
+GO
+USE DataWarehouse;
+CREATE SCHEMA bornze;
+GO
+CREATE SCHEMA silver;
+GO
+CREATE SCHEMA gold;
+GO
