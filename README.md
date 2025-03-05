@@ -58,12 +58,7 @@ Data Analytics
 5. DrawIO: Design data architecture, models, flows, and diagrams.
 
 
-# 📓 Project Requirements
-
-Building the Data Warehouse (Data Engineering)
-
-
-# 📒 Specifications
+# 📓 Project Requirements Specifications
 
 Data Sources: Import data from two source systems (ERP and CRM) provided as CSV files.
 
